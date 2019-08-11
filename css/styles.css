@@ -23,8 +23,14 @@ nav>ul>li>a{
 
 body{
     background-color: burlywood;
+   
+}
+#about>img{
+    float: right;
+}
+#hobby{
+    float: left;
 }
 .info{
     float: left;
-    padding-right: 150px; 
 }
