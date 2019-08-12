@@ -34,3 +34,16 @@ body{
 .info{
     float: left;
 }
+#contact{
+    text-align: center;
+}
+.first{
+    display: flex;
+    justify-content: space-evenly;
+}
+.faster{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}
